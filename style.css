@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+
 body{
 	margin: 0;
 	padding: 0;
@@ -126,4 +128,43 @@ input[name="r"] {
 
 p {
 	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.event {
+
+	text-decoration: none;
+	color: white;
+	font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.main-area {
+	background-color: #ff4d4d; 
+	height: 100vh;
+	width: 90%;
+	margin: auto;
+}
+
+span {
+	padding: 10px;
+	font-family: 'PT Sans', sans-serif;
+	color: white;
+}
+
+button {
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.thing {
+	padding: 5px;
+	text-align: left;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 30px;
 }
