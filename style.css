@@ -167,4 +167,10 @@ button {
 	text-align: left;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 30px;
+
+	margin: 5%;
+}
+
+img {
+	margin: auto;	
 }
