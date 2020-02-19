@@ -154,12 +154,15 @@ span {
 	padding: 10px;
 	font-family: 'PT Sans', sans-serif;
 	color: white;
+
 }
 
 button {
 	border: none;
 	background-color: transparent;
 	cursor: pointer;
+	font-size: 50px;
+
 }
 
 .thing {
@@ -171,6 +174,7 @@ button {
 	margin: 5%;
 }
 
-img {
-	margin: auto;	
+a:hover {
+	font-size: 1.4em;
+	text-decoration: underline;
 }
